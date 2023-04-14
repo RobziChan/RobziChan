@@ -1,6 +1,6 @@
 # About RobziChan
 
-```json
+```yaml
 User: {
     Name: RobziChan,
     
